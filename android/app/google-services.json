@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344381819403",
+    "project_id": "episode-d2afc",
+    "storage_bucket": "episode-d2afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344381819403:android:81331f0749b69a498e150e",
+        "android_client_info": {
+          "package_name": "com.episodetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYoPai7ayfhdOL5RLCeLzqbwTVhgd7oQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
